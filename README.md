@@ -23,11 +23,14 @@ Front-end developers use:
 
 | Topic | Resource |
 |--------|----------|
-| HTML | [Open](./resources/html.md) |
-| CSS | [Open](./resources/css.md) |
-| JavaScript | [Open](./resources/javascript.md) |
-| React | [Open](./resources/react.md) |
-| Interview Prep | [Open](./resources/interview-prep.md) |
+| HTML | [Open](./Resources/HTML.md) |
+| CSS | [Open](./Resources/CSS.md) |
+| JavaScript | [Open](./Resources/Javascript.md) |
+| React | [Open](./Resources/React.md) |
+| DSA with JavaScript | [Open](./Resources/DSA.md) |
+| MongoDB | [Open](./Resources/MongoDB.md) |
+| Python | [Open](./Resources/Python.md) |
+| Interview Prep | [Open](./Resources/Interview-Prep.md) |
 
 ## 🤝 Contribution
 
